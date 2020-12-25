@@ -1,0 +1,7 @@
+apiKey: "AIzaSyBR3memAJdDnsZy3BoKR6v2JHkL1A2_CKg",
+authDomain: "chat-vision-689ec.firebaseapp.com",
+projectId: "chat-vision-689ec",
+storageBucket: "chat-vision-689ec.appspot.com",
+messagingSenderId: "628199364479",
+appId: "1:628199364479:web:bff2faa5b998aee9ce2c4a",
+measurementId: "G-Q2RHLZLEFJ",
